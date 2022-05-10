@@ -31,6 +31,8 @@ Galaxy requires Python 3.7 . To check your Python version, run:
     $ python -V
     Python 3.7.6
 
+    this is so silly I am making a change
+
 Start Galaxy:
 
 .. code:: console
